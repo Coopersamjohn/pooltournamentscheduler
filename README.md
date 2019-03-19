@@ -1,6 +1,6 @@
-# vuetest
+# pooltournamentscheduler
 
-> testing installation of a vue.js SPA template & setup
+> A Vue.js project
 
 ## Build Setup
 

@@ -1,8 +1,8 @@
 {
-  "name": "vuetest",
-  "description": "testing installation of a vue.js SPA template & setup",
+  "name": "pooltournamentscheduler",
+  "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "coopersamjohn",
+  "author": "Sam",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -10,9 +10,9 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "node": "^10.7.0",
-    "vue": "^2.5.16",
-    "vue-router": "^3.0.1"
+    "moment": "^2.24.0",
+    "node": "^11.7.0",
+    "vue": "^2.5.22"
   },
   "browserslist": [
     "> 1%",

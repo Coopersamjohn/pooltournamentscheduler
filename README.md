@@ -1,18 +1,3 @@
-# vuetest
+# Rough early, early version of pool tournament scheduler
 
-> testing installation of a vue.js SPA template & setup
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+I've been using this project to teach myself VueJS and Vuex. So there are lots of errors and mistakes and general bumbleheadedness.
